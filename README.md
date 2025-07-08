@@ -53,9 +53,8 @@ Here’s what I’m building (or have built) to challenge myself and show what I
 
 ### 📫 Contact Me
 
-- GitHub: [Kadir012000](https://github.com/Kadir012000)
-- Email: *[your email here if you want to include it]*  
-- I’m open to feedback, code reviews, and collaborations!
+ - GitHub: [Kadir012000](https://github.com/Kadir012000)
+ - I’m open to feedback, code reviews, and collaborations!
 
 ---
 
